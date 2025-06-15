@@ -15,6 +15,8 @@ let realfeeltext = document.querySelector(".realfeeltext");
 let pressuretext = document.querySelector(".pressuretext");
 let card3 = document.querySelector(".card3");
 let firstData = [];
+
+//............ click event .......
 inputButton.addEventListener("click", () => {
   if (!input.value) {
     alert("Enter a city name");
