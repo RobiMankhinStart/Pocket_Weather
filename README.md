@@ -21,7 +21,7 @@ A lightweight weather application that provides real-time weather information fo
 
 ## How to Use 🚀
 1. Enter a city name in the search bar
-2. Press Enter or click the search button
+2. click the search button
 3. View detailed weather information for your location
 
 ## Technologies Used 💻
